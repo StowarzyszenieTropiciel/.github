@@ -1,4 +1,4 @@
-## Hi there 👋
+Public view for everyone
 
 <!--
 
